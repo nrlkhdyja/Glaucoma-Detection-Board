@@ -26,6 +26,9 @@ https://physionet.org/content/hillel-yaffe-glaucoma-dataset/1.1.0/
 
 > Note: The full dataset (train, validation, and test sets) is not uploaded due to GitHub size limitations.
 
+Link of the fundus images:
+https://drive.google.com/drive/folders/1SjcNnXjn6ZwA25o16_jRHRzxX-wmX1K9?usp=sharing
+
 ## 📖 References
 Abramovich, O., et al. (2026). *Hillel Yaffe Glaucoma Dataset (HYGD) (Version 1.1.0).* PhysioNet.  
 https://physionet.org/content/hillel-yaffe-glaucoma-dataset/1.1.0/
