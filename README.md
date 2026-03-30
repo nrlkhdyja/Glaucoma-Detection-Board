@@ -37,10 +37,6 @@ Glaucoma-Detection-Board/
 ├── scripts/
 ├── sample_images/
 
-
-## 📸 Sample Images
-A small number of sample images are provided in the `sample_images` folder for testing.
-
 ## 📖 References
 Abramovich, O., et al. (2026). *Hillel Yaffe Glaucoma Dataset (HYGD) (Version 1.1.0).* PhysioNet.  
 https://physionet.org/content/hillel-yaffe-glaucoma-dataset/1.1.0/
